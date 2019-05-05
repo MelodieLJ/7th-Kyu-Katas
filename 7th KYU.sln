@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7th KYU", "7th KYU\7th KYU.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementingLetters", "IncrementingLetters\IncrementingLetters.csproj", "{283E4766-BD22-4119-815E-1853CAB9ECF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEndsWith", "StringEndsWith\StringEndsWith.csproj", "{11722F71-B9EB-4D4A-B536-A8BF7DCA0DEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{283E4766-BD22-4119-815E-1853CAB9ECF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{283E4766-BD22-4119-815E-1853CAB9ECF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{283E4766-BD22-4119-815E-1853CAB9ECF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11722F71-B9EB-4D4A-B536-A8BF7DCA0DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11722F71-B9EB-4D4A-B536-A8BF7DCA0DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11722F71-B9EB-4D4A-B536-A8BF7DCA0DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11722F71-B9EB-4D4A-B536-A8BF7DCA0DEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
