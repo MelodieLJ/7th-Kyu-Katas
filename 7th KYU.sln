@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementingLetters", "Incr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEndsWith", "StringEndsWith\StringEndsWith.csproj", "{11722F71-B9EB-4D4A-B536-A8BF7DCA0DEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangingVowels", "ChangingVowels\ChangingVowels.csproj", "{0A0A54C4-A9EE-41D1-B98A-A3A01E3B7112}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{11722F71-B9EB-4D4A-B536-A8BF7DCA0DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11722F71-B9EB-4D4A-B536-A8BF7DCA0DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11722F71-B9EB-4D4A-B536-A8BF7DCA0DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0A54C4-A9EE-41D1-B98A-A3A01E3B7112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0A54C4-A9EE-41D1-B98A-A3A01E3B7112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0A54C4-A9EE-41D1-B98A-A3A01E3B7112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0A54C4-A9EE-41D1-B98A-A3A01E3B7112}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
