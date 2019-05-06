@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEndsWith", "StringEnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangingVowels", "ChangingVowels\ChangingVowels.csproj", "{0A0A54C4-A9EE-41D1-B98A-A3A01E3B7112}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWords", "ReverseWords\ReverseWords.csproj", "{98B7DE61-9937-46A8-9E69-0839AAB86F08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0A0A54C4-A9EE-41D1-B98A-A3A01E3B7112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A0A54C4-A9EE-41D1-B98A-A3A01E3B7112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A0A54C4-A9EE-41D1-B98A-A3A01E3B7112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B7DE61-9937-46A8-9E69-0839AAB86F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B7DE61-9937-46A8-9E69-0839AAB86F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B7DE61-9937-46A8-9E69-0839AAB86F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B7DE61-9937-46A8-9E69-0839AAB86F08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
