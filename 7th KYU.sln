@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversing Words in a String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime Exercise", "DateTime Exercise\DateTime Exercise.csproj", "{A9FF1AF1-1B82-4A57-9EEA-E324EF4D94DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuples_OrderedCount", "Tuples_OrderedCount\Tuples_OrderedCount.csproj", "{6322DC34-EE7A-4088-8378-FA7344208276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A9FF1AF1-1B82-4A57-9EEA-E324EF4D94DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9FF1AF1-1B82-4A57-9EEA-E324EF4D94DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9FF1AF1-1B82-4A57-9EEA-E324EF4D94DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6322DC34-EE7A-4088-8378-FA7344208276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6322DC34-EE7A-4088-8378-FA7344208276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6322DC34-EE7A-4088-8378-FA7344208276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6322DC34-EE7A-4088-8378-FA7344208276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
