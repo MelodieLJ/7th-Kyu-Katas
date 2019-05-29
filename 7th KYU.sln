@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForPrimeNumbers", "Che
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Spaces_From_String", "Remove_Spaces_From_String\Remove_Spaces_From_String.csproj", "{DB26A6AE-EC48-40BE-9BD4-10BBB6712627}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_Angles", "Sum_of_Angles\Sum_of_Angles.csproj", "{5080698E-2EDF-4554-A38B-BD3101B3C658}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{DB26A6AE-EC48-40BE-9BD4-10BBB6712627}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB26A6AE-EC48-40BE-9BD4-10BBB6712627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB26A6AE-EC48-40BE-9BD4-10BBB6712627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5080698E-2EDF-4554-A38B-BD3101B3C658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5080698E-2EDF-4554-A38B-BD3101B3C658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5080698E-2EDF-4554-A38B-BD3101B3C658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5080698E-2EDF-4554-A38B-BD3101B3C658}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
