@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveVowels", "RemoveVowel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find numbers which are divisible by given number", "Find numbers which are divisible by given number\Find numbers which are divisible by given number.csproj", "{31998D8C-64F6-4468-96D3-656BE795AFE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForPrimeNumbers", "CheckForPrimeNumbers\CheckForPrimeNumbers.csproj", "{657B9491-7A58-4698-87BF-9945A7241144}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{31998D8C-64F6-4468-96D3-656BE795AFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31998D8C-64F6-4468-96D3-656BE795AFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31998D8C-64F6-4468-96D3-656BE795AFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657B9491-7A58-4698-87BF-9945A7241144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657B9491-7A58-4698-87BF-9945A7241144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657B9491-7A58-4698-87BF-9945A7241144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657B9491-7A58-4698-87BF-9945A7241144}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
