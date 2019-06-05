@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotate_Matrix_To_Left", "Ro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Reverse", "Data_Reverse\Data_Reverse.csproj", "{BD119D50-0EAE-4B4B-8B4B-8E0FDA4ACB4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum consecutives", "Sum consecutives\Sum consecutives.csproj", "{C22A860F-2DE4-48D7-A727-D46B88B10624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert string to camel case", "Convert string to camel case\Convert string to camel case.csproj", "{B6CB7C43-2A58-45F8-B400-A2317946F14B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{BD119D50-0EAE-4B4B-8B4B-8E0FDA4ACB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD119D50-0EAE-4B4B-8B4B-8E0FDA4ACB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD119D50-0EAE-4B4B-8B4B-8E0FDA4ACB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C22A860F-2DE4-48D7-A727-D46B88B10624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22A860F-2DE4-48D7-A727-D46B88B10624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22A860F-2DE4-48D7-A727-D46B88B10624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22A860F-2DE4-48D7-A727-D46B88B10624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6CB7C43-2A58-45F8-B400-A2317946F14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CB7C43-2A58-45F8-B400-A2317946F14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CB7C43-2A58-45F8-B400-A2317946F14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CB7C43-2A58-45F8-B400-A2317946F14B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
