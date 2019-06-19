@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum consecutives", "Sum con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert string to camel case", "Convert string to camel case\Convert string to camel case.csproj", "{B6CB7C43-2A58-45F8-B400-A2317946F14B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split string into substrings", "Split string into substrings\Split string into substrings.csproj", "{A9E2999B-4BC3-4E43-8A35-7DDB5A0EFE99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generate Square", "Generate Square\Generate Square.csproj", "{0332F352-273D-4D12-AC71-5E26932DCFA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{B6CB7C43-2A58-45F8-B400-A2317946F14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6CB7C43-2A58-45F8-B400-A2317946F14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6CB7C43-2A58-45F8-B400-A2317946F14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E2999B-4BC3-4E43-8A35-7DDB5A0EFE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E2999B-4BC3-4E43-8A35-7DDB5A0EFE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E2999B-4BC3-4E43-8A35-7DDB5A0EFE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E2999B-4BC3-4E43-8A35-7DDB5A0EFE99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0332F352-273D-4D12-AC71-5E26932DCFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0332F352-273D-4D12-AC71-5E26932DCFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0332F352-273D-4D12-AC71-5E26932DCFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0332F352-273D-4D12-AC71-5E26932DCFA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
