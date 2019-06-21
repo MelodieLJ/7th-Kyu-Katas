@@ -5,12 +5,11 @@ namespace Tuples_OrderedCount
 {
     /* Count the number of occurrences of each character and return it as a list of tuples in order of appearance.
      */
-
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(string.Join(", \n", Kata.OrderedCount("daythreeofonehundreddaysofcode")));
+            Console.WriteLine(string.Join(", \n", Kata.OrderedCount("dayfiveofonehundreddaysofcode")));
         }
     }
 
@@ -30,8 +29,7 @@ namespace Tuples_OrderedCount
 
                 //iterate through all the letters in the string
                 for (int i = 0; i < input.Length; i++)
-                {
-                    
+                {                  
                     if (input[i] == letter)
                     {
                         //if the letter at index of i is equal to the value stored in letter, increase the count and remove that letter from the string

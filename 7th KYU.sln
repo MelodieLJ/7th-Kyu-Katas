@@ -45,6 +45,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum consecutives", "Sum con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert string to camel case", "Convert string to camel case\Convert string to camel case.csproj", "{B6CB7C43-2A58-45F8-B400-A2317946F14B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCII chars", "ASCII chars\ASCII chars.csproj", "{0E45E665-7D03-48E1-94B9-1A4AC0465D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Years", "Leap Years\Leap Years.csproj", "{FD23E0E6-5DCA-4F68-B9BC-968A3F40E9EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversing chars in a string", "Reversing chars in a string\Reversing chars in a string.csproj", "{BE01094E-9E7C-4B1E-B2AC-72E00BF89AFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +141,18 @@ Global
 		{B6CB7C43-2A58-45F8-B400-A2317946F14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6CB7C43-2A58-45F8-B400-A2317946F14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6CB7C43-2A58-45F8-B400-A2317946F14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E45E665-7D03-48E1-94B9-1A4AC0465D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E45E665-7D03-48E1-94B9-1A4AC0465D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E45E665-7D03-48E1-94B9-1A4AC0465D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E45E665-7D03-48E1-94B9-1A4AC0465D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD23E0E6-5DCA-4F68-B9BC-968A3F40E9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD23E0E6-5DCA-4F68-B9BC-968A3F40E9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD23E0E6-5DCA-4F68-B9BC-968A3F40E9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD23E0E6-5DCA-4F68-B9BC-968A3F40E9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE01094E-9E7C-4B1E-B2AC-72E00BF89AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE01094E-9E7C-4B1E-B2AC-72E00BF89AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE01094E-9E7C-4B1E-B2AC-72E00BF89AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE01094E-9E7C-4B1E-B2AC-72E00BF89AFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
