@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap Years", "Leap Years\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversing chars in a string", "Reversing chars in a string\Reversing chars in a string.csproj", "{BE01094E-9E7C-4B1E-B2AC-72E00BF89AFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of two lowest positive ints", "Sum of two lowest positive ints\Sum of two lowest positive ints.csproj", "{921C609C-1C7F-4AD1-95A6-768A0A7561B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{BE01094E-9E7C-4B1E-B2AC-72E00BF89AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE01094E-9E7C-4B1E-B2AC-72E00BF89AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE01094E-9E7C-4B1E-B2AC-72E00BF89AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{921C609C-1C7F-4AD1-95A6-768A0A7561B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{921C609C-1C7F-4AD1-95A6-768A0A7561B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{921C609C-1C7F-4AD1-95A6-768A0A7561B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{921C609C-1C7F-4AD1-95A6-768A0A7561B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
