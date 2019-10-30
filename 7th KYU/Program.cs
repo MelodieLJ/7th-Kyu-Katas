@@ -31,7 +31,7 @@ namespace _7th_KYU
             {
                 if (vowel.Contains(word[i]))
                 {
-                    count++;
+                    count++;//hkjhlk
                 }
             }
             return count;
