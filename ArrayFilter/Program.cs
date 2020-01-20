@@ -10,10 +10,11 @@ namespace ArrayFilter
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(string.Join(" ", Kata.GetEvenNumbers(new int[] { 1,2,3,4,5})));
         }
     }
 
-    public class Kata
+    public static class Kata
     {
         public static int[] GetEvenNumbers(int[] numbers)
         {
