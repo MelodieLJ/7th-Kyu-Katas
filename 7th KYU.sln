@@ -55,7 +55,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of two lowest positive 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Isogram", "Isogram\Isogram.csproj", "{9659F714-DFEF-4C46-A749-C0D50E54FAA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Divisors of a Number", "Count Divisors of a Number\Count Divisors of a Number.csproj", "{C13BD82D-C0C3-483F-BDC7-A8CDB17A93F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count Divisors of a Number", "Count Divisors of a Number\Count Divisors of a Number.csproj", "{C13BD82D-C0C3-483F-BDC7-A8CDB17A93F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiples of N", "Multiples of N\Multiples of N.csproj", "{A65C6BBA-2B15-410C-9F59-D2EF34BF85E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Very Even Numbers", "Very Even Numbers\Very Even Numbers.csproj", "{4F94F351-0722-4F8B-B6CD-05F7B3AE9E20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +175,14 @@ Global
 		{C13BD82D-C0C3-483F-BDC7-A8CDB17A93F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C13BD82D-C0C3-483F-BDC7-A8CDB17A93F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C13BD82D-C0C3-483F-BDC7-A8CDB17A93F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65C6BBA-2B15-410C-9F59-D2EF34BF85E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65C6BBA-2B15-410C-9F59-D2EF34BF85E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65C6BBA-2B15-410C-9F59-D2EF34BF85E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65C6BBA-2B15-410C-9F59-D2EF34BF85E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F94F351-0722-4F8B-B6CD-05F7B3AE9E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F94F351-0722-4F8B-B6CD-05F7B3AE9E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F94F351-0722-4F8B-B6CD-05F7B3AE9E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F94F351-0722-4F8B-B6CD-05F7B3AE9E20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
